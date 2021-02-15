@@ -7,6 +7,7 @@ CSharp|Intermediario|
 Html|Intermediario|
 Css|Intermediario|
 Wordpress|Intermediario|
+SQL|Intermediario|
 PHP|Iniciante|
 Dart|Iniciante|
 Flutter|Iniciante|
