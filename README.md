@@ -8,6 +8,7 @@ Html|Intermediario|
 Css|Intermediario|
 Wordpress|Intermediario|
 SQL|Intermediario|
+NoSQL|Iniciante|
 PHP|Iniciante|
 Dart|Iniciante|
 Flutter|Iniciante|
