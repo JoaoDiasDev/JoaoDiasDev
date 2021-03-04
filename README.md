@@ -4,7 +4,7 @@
 
 |   Skill    |     Nivel     |
 | :--------: | :-----------: |
-| Javascript | Intermediario |
+| Javascript | Avançado      |
 |   CSharp   | Intermediario |
 |    Html    | Intermediario |
 |    Css     | Intermediario |
