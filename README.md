@@ -33,3 +33,4 @@
 |      RESTAPI       |      https://www.docdroid.net/uigdoki/certificadorestapi-pdf       |
 |     WordPress      |     https://www.docdroid.net/XHt5Eil/certificadowordpress-pdf      |
 |    WooCommerce     |    https://www.docdroid.net/5kXw9Eu/certificadowoocommerce-pdf     |
+|    TestesSofware   |    https://www.docdroid.net/JN3TAbC/certificadotestessoftwares-pdf |
