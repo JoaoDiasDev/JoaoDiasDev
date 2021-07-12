@@ -40,3 +40,4 @@ https://www.docdroid.net/ky4jw6H/certificadofaculdadeads-pdf
 |    TestesSofware       |    https://www.docdroid.net/JN3TAbC/certificadotestessoftwares-pdf      |
 |    DockerMastery       |    https://www.docdroid.net/AcXRIie/dockermasterycertificate-pdf        |
 |  UnitTestXunitMock.Net |    https://www.docdroid.net/cbKn7yt/certificadoxunitmoqtestnet-pdf      |
+|      Zabbix            |    https://www.docdroid.net/d4ciYyW/certificadozabbix-pdf               |
