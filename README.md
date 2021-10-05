@@ -27,6 +27,7 @@ https://www.docdroid.net/ky4jw6H/certificadofaculdadeads-pdf
 |    BancoDeDados        |    https://www.docdroid.net/n2I26Gr/certificadobancodedados-pdf         |
 | ReportingServices      |  https://www.docdroid.net/bPLYpFt/certificadoreportingservice-pdf       |
 |    CsharpLogica        |    https://www.docdroid.net/CkZ8cBw/certificadocsharplogica-pdf         |
+|    CsharpIntermed      |   https://www.docdroid.net/weQD5AD/certificadocsharpintermed-pdf        |
 |       DevWeb           |       https://www.docdroid.net/64oQLHw/certificadodevweb-pdf            |
 |       Docker           |       https://www.docdroid.net/wsk62UK/certificadodocker-pdf            |
 |   DockerElastic        |   https://www.docdroid.net/bTvEO0p/certificadodockerelastic-pdf         |
