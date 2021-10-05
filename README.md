@@ -1,4 +1,4 @@
-[![Header](https://github.com/JoaoDiasDev/JoaoDiasDev/blob/main/logoX1.png "Header")](https://joaodiasdev.com/)
+[![Header](https://github.com/JoaoDiasDev/JoaoDiasDev/blob/main/logoX1.png "Header")](https://github.com/joaodiasdev/)
 
 # Certificado Faculdade
 https://www.docdroid.net/ky4jw6H/certificadofaculdadeads-pdf
