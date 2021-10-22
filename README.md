@@ -7,8 +7,8 @@ https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoDeConclusaoFa
 
 |   Skill    |     Nivel     |
 | :--------: | :-----------: |
-| Javascript | Avançado      |
-|   CSharp   | Intermediario |
+| Javascript |    Avançado   |
+|   CSharp   |    Avançado   |
 |    Html    | Intermediario |
 |    Css     | Intermediario |
 | Wordpress  | Intermediario |
