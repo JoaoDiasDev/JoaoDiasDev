@@ -1,7 +1,7 @@
 [![Header](https://github.com/JoaoDiasDev/JoaoDiasDev/blob/main/logoX1.png "Header")](https://github.com/joaodiasdev/)
 
 # Certificado Faculdade
-https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoDeConclusaoFacul.pdf
+https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoFaculdadeADS.pdf
 
 # Skills
 
