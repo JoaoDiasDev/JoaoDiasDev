@@ -3,21 +3,6 @@
 # Certificado Faculdade
 https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoFaculdadeADS.pdf
 
-# Skills
-
-|   Skill    |     Nivel     |
-| :--------: | :-----------: |
-| Javascript |    Avançado   |
-|   CSharp   |    Avançado   |
-|    Html    | Intermediario |
-|    Css     | Intermediario |
-| Wordpress  | Intermediario |
-|    SQL     | Intermediario |
-|   NoSQL    |   Iniciante   |
-|    PHP     |   Iniciante   |
-|    Dart    |   Iniciante   |
-|  Flutter   |   Iniciante   |
-
 # Cursos já finalizados
 
 |       Curso            |                            Certificado                                                                |
