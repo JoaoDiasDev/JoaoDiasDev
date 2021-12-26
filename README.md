@@ -7,7 +7,7 @@ https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoFaculdadeADS.
 
 |       Curso            |                            Certificado                                                                |
 |:----------------------:|:-----------------------------------------------------------------------------------------------------:|
-|  AspNet3-1/5-0MVC      | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAspNet3-1-Net5.0.pdf               |
+|  AspNet3-1-Net5.0MVC   | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAspNet3-1-Net5.0.pdf               |
 |     Algoritmo          | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAlgoritmo.pdf                      |
 |      AWSCloud          | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAWSCloud.pdf                       |
 |    BancoDeDados        | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoBancoDeDados.pdf                   |
