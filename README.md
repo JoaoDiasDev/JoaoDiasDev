@@ -14,6 +14,7 @@ https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoFaculdadeADS.
 | ReportingServices      | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoReportingService.pdf               |
 |    CsharpLogica        | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoCsharpLogica.pdf                   |
 |    CsharpIntermed      | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoCsharpIntermed.pdf                 |
+| CsharpCleanArchitecture| https://github.com/JoaoDiasDev/Certificados/blob/master/CleanArchitectureCsharpAspNetCore.pdf         |
 |       DevWeb           | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoDevWeb.pdf                         |
 |       Docker           | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoDocker.pdf                         |
 |   DockerElastic        | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoDockerElastic.pdf                  |
