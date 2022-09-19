@@ -31,3 +31,4 @@ https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoFaculdadeADS.
 |  UnitTestXunitMock.Net | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoXunitMockNet.pdf                   |
 |      Zabbix            | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoZabbix.pdf                         |
 |  xUnitTDDUnitTest      | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoTDDDotNet.pdf                      |
+|  PythonCourseGoogle    | https://github.com/JoaoDiasDev/Certificados/blob/master/PythonCrashCourseGoogle.pdf                   |
