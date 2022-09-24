@@ -32,3 +32,4 @@ https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoFaculdadeADS.
 |      Zabbix            | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoZabbix.pdf                         |
 |  xUnitTDDUnitTest      | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoTDDDotNet.pdf                      |
 |  PythonCourseGoogle    | https://www.coursera.org/account/accomplishments/certificate/HYPZGU9SFBK3                             |
+|  NivelamentoMatematica | https://github.com/JoaoDiasDev/Certificados/blob/master/NivelamentoMatematica.pdf                     |
