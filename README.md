@@ -3,6 +3,9 @@
 # Certificado Faculdade
 https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoFaculdadeADS.pdf
 
+# Certificado Pós-Graduação
+https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoMBAGestaoQualidadeSoftware.pdf
+
 # Cursos já finalizados
 
 |       Curso            |                            Certificado                                                                      |
