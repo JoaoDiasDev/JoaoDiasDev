@@ -18,6 +18,7 @@ https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoMBAGestaoQual
 |    CsharpLogica        | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoCsharpLogica.pdf                         |
 |    CsharpIntermed      | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoCsharpIntermed.pdf                       |
 | CsharpCleanArchitecture| https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoArchitectureCsharpAspNetCore.pdf         |
+| AspNetCoreEVueJS       | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAspNetCoreEVueJS.pdf                     |
 | CsharpMicroServices    | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoMicroServicesNet6.0RabbitMQeOcelot.pdf   |
 |  TerraformDevOps       | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoTerraformAWSSREIACDevOps.pdf             |
 |  Desenvolvimento Web   | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoDevWeb.pdf                               |
