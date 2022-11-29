@@ -5,6 +5,7 @@ https://github.com/JoaoDiasDev/Certificados/blob/master/DiplomaFaculdadeADS.pdf
 
 # Certificado Pós-Graduação
 https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoMBAGestaoQualidadeSoftware.pdf
+https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoPosGraduacaoEngenhariaAgilDeSoftware.pdf
 
 # Cursos já finalizados
 
