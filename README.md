@@ -39,4 +39,5 @@ https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoPosGraduacaoE
 |  xUnitTDDUnitTest      | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoTDDDotNet.pdf                            |
 |  PythonCourseGoogle    | https://www.coursera.org/account/accomplishments/certificate/HYPZGU9SFBK3                                   |
 |  NivelamentoMatematica | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoNivelamentoMatematica.pdf                |
+|  AnsibleParaSysAdm     |  https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAnsibleParaSysADM.pdf                   |
 
