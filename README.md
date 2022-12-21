@@ -28,6 +28,7 @@ https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoPosGraduacaoE
 |     HTML5CSS3          | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoHTML5CSS3.pdf                            |
 | JavascriptIniciante    | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoJavaScript.pdf                           |
 | JavascriptAvançado     | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoJavascriptAvan%C3%A7adoFullStack.pdf     |
+| JenkinsFromZeroToHero  | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoJenkinsFromZeroToHero.pdf                |
 | RedeDeComputadores     | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoRedeDeComputadores.pdf                   |
 |      RESTAPI           | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoRESTAPI.pdf                              |
 |     WordPress          | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoWordPress.pdf                            |
