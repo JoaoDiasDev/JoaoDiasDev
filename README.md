@@ -106,3 +106,11 @@ https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoPosGraduacaoE
 |  LevelinginMathematics | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoNivelamentoMatematica.pdf                |
 |  AnsibleForSysAdm      |  https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAnsibleParaSysADM.pdf                   |
 
+## Books in Progress 📖
+
+<span style="font-weight: bold;font-size: 1.2rem;color: cyan;">Clean Architecture by Uncle Bob</span>
+<span style="font-weight: bold;font-size: 1.2rem;color: cyan;">C_11_AND_NET_7_MODERN_CROSSPLATFORM_DEVELOPMENT_FUNDAMENTALS by Mark J. Price</span>
+<span style="font-weight: bold;font-size: 1.2rem;color: cyan;">SOFTWARE_ARCHITECTURE_WITH_C_10_AND_NET_6_THIRD_EDITION by Mark J. Price</span>
+<span style="font-weight: bold;font-size: 1.2rem;color: cyan;">APPS_AND_SERVICES_WITH_NET_7 by Mark J. Price</span>
+
+## Books Done 📘 
