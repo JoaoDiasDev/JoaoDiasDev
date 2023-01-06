@@ -108,7 +108,7 @@ https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoPosGraduacaoE
 
 ## Books in Progress 📖
 
-|       Author           |                            Books                                          |
+|       Author           |                            Book                                           |
 |:----------------------:|:-------------------------------------------------------------------------:|
 |    Uncle Bob           |  Clean Architecture                                                       |
 |    Mark J. Price       |  C_11_AND_NET_7_MODERN_CROSSPLATFORM_DEVELOPMENT_FUNDAMENTALS             |
@@ -117,5 +117,5 @@ https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoPosGraduacaoE
 
 ## Books Done 📘 
 
-|       Author           |                            Books                                          |
+|       Author           |                            Book                                           |
 |:----------------------:|:-------------------------------------------------------------------------:|
