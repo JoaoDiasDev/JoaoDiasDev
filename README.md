@@ -110,7 +110,7 @@ https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoPosGraduacaoE
 
 |       Author           |                            Book                                           |
 |:----------------------:|:-------------------------------------------------------------------------:|
-|    Uncle Bob           |  Clean Architecture                                                       |
+|    Robert C. Martin    |  Clean Architecture                                                       |
 |    Mark J. Price       |  C_11_AND_NET_7_MODERN_CROSSPLATFORM_DEVELOPMENT_FUNDAMENTALS             |
 |    Mark J. Price       |  SOFTWARE_ARCHITECTURE_WITH_C_10_AND_NET_6_THIRD_EDITION by Mark J. Price |
 |    Mark J. Price       |  APPS_AND_SERVICES_WITH_NET_7                                             |
