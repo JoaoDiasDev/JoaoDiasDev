@@ -6,10 +6,6 @@ I like to study everything about technology, always curious to learn new things.
 
 ## <img alt="about-me" src="https://github.com/JoaoDiasDev/ResourcesGeralParaProjetos/blob/master/JoaoDiasDev/Readme/resources/about-me-section.jpg?raw=true" />
 
-
-<img align="right" width="300" src="https://media.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif" />
-
-
 ```Csharp
 public class JoaoDias {
  string name = "João Matheus Cardoso Dias"
@@ -23,6 +19,7 @@ public class JoaoDias {
  "Terraform","Ansible","Docker","Kubernetes","Bitbucket","Jira","Confluence"}
 }
 ```
+<img width="300" src="https://media.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif" />
 
 ## **Languages & Tools:**  
 
