@@ -20,7 +20,7 @@ public class JoaoDias {
  "Flutter","GO", "SQL", "NOSQL"};
 
  List<string> some_skills = new List<string>{"Jenkins","AWS","Azure","DO","GCP",
- "Terraform","Ansible","Docker","Kubernetes"}
+ "Terraform","Ansible","Docker","Kubernetes","Bitbucket","Jira","Confluence"}
 }
 ```
 
