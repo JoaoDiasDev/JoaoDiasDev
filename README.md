@@ -19,7 +19,7 @@ public class JoaoDias {
  "Terraform","Ansible","Docker","Kubernetes","Bitbucket","Jira","Confluence"}
 }
 ```
-<img width="300" src="https://media.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif" />
+<img align="right" width="200" src="https://media.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif" />
 
 ## **Languages & Tools:**  
 
