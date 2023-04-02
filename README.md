@@ -4,7 +4,7 @@
 
 I like to study everything about technology, always curious to learn new things. Gonna to work with technology for all my life, technology is what make me feel alive! 💻
 
-## <img alt="about-me" src="https://github.com/JoaoDiasDev/ResourcesGeralParaProjetos/blob/master/JoaoDiasDev/Readme/resources/about-me-section.jpg?raw=true" />
+# <img alt="about-me" src="https://github.com/JoaoDiasDev/ResourcesGeralParaProjetos/blob/master/JoaoDiasDev/Readme/resources/about-me-section.jpg?raw=true" />
 
 ```Csharp
 public class JoaoDias {
@@ -21,7 +21,7 @@ public class JoaoDias {
 ```
 <img align="right" width="200" src="https://media.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif" />
 
-## **Languages & Tools:**  
+# **Languages & Tools:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -42,7 +42,7 @@ public class JoaoDias {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"></code>
 
-## **GitHub Estatísticas**
+# **GitHub Estatísticas**
 
 <a href="https://github.com/joaodiasdev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodiasdev&theme=nightowl&hide_langs_below=1" />
@@ -56,24 +56,25 @@ public class JoaoDias {
 [linkedin]: https://www.linkedin.com/in/jo%C3%A3o-matheus-cardoso-dias-29636220a/
 <br>
 
-## Social Media
+# Social Media
 
 🏡 [Website][website] **|** 
 👔 [Linkedin][linkedin]
 
-## College Certificate
+# College Certificate
 https://github.com/JoaoDiasDev/Certificados/blob/master/DiplomaFaculdadeADS.pdf
 
-## Languagues
+# Languagues
+## English
 https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoEFSET.pdf
 https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAdvanced1Fluencypass.pdf
 https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoEnglishPennsylvania.pdf
 
-## Post-graduate Certificate
+# Post-graduate Certificate
 https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoMBAGestaoQualidadeSoftware.pdf
 https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoPosGraduacaoEngenhariaAgilDeSoftware.pdf
 
-## Courses already completed
+# Courses already completed
 
 |       Course           |                            Certificate                                                                      |
 |:----------------------:|:-----------------------------------------------------------------------------------------------------------:|
@@ -108,7 +109,7 @@ https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoPosGraduacaoE
 |  LevelinginMathematics | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoNivelamentoMatematica.pdf                |
 |  AnsibleForSysAdm      |  https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAnsibleParaSysADM.pdf                   |
 
-## Books in Progress 📖
+# Books in Progress 📖
 
 |       Author           |                            Book                                           |
 |:----------------------:|:-------------------------------------------------------------------------:|
@@ -117,7 +118,7 @@ https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoPosGraduacaoE
 |    Mark J. Price       |  SOFTWARE_ARCHITECTURE_WITH_C_10_AND_NET_6_THIRD_EDITION by Mark J. Price |
 |    Mark J. Price       |  APPS_AND_SERVICES_WITH_NET_7                                             |
 
-## Books Done 📘 
+# Books Done 📘 
 
 |       Author           |                            Book                                           |
 |:----------------------:|:-------------------------------------------------------------------------:|
