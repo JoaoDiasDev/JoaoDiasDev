@@ -68,6 +68,7 @@ https://github.com/JoaoDiasDev/Certificados/blob/master/DiplomaFaculdadeADS.pdf
 ## English
 https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoEFSET.pdf
 https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAdvanced1Fluencypass.pdf
+https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAdvanced2Fluencypass.pdf
 https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoEnglishPennsylvania.pdf
 
 # Post-graduate Certificate
