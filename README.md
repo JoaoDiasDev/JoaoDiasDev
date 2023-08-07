@@ -64,16 +64,19 @@ public class JoaoDias {
 # College Certificate
 https://github.com/JoaoDiasDev/Certificados/blob/master/DiplomaFaculdadeADS.pdf
 
+# Post-graduate Certificate
+https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoMBAGestaoQualidadeSoftware.pdf
+https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoPosGraduacaoEngenhariaAgilDeSoftware.pdf
+
+# Cloud Certificate
+https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAWSCloudPraticioner.pdf
+
 # Languagues
 ## English
 https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoEFSET.pdf
 https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAdvanced1Fluencypass.pdf
 https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAdvanced2Fluencypass.pdf
 https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoEnglishPennsylvania.pdf
-
-# Post-graduate Certificate
-https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoMBAGestaoQualidadeSoftware.pdf
-https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoPosGraduacaoEngenhariaAgilDeSoftware.pdf
 
 # Courses already completed
 
