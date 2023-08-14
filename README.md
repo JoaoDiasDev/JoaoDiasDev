@@ -76,6 +76,7 @@ https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAWSCloudPrati
 https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoEFSET.pdf
 https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAdvanced1Fluencypass.pdf
 https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAdvanced2Fluencypass.pdf
+https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoFluencyCourseProficient.pdf
 https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoEnglishPennsylvania.pdf
 
 # Courses already completed
