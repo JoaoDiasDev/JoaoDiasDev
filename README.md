@@ -74,23 +74,23 @@ https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAWSCloudPrati
 
 # Languagues
 ## English
-https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoEFSET.pdf
 
-https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAdvanced1Fluencypass.pdf
-
-https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAdvanced2Fluencypass.pdf
-
-https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoFluencyCourseProficient.pdf
-
-https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoEnglishPennsylvania.pdf
+|       Training         |                            Certificate                                                                      |
+|:----------------------:|:-----------------------------------------------------------------------------------------------------------:|
+|      EFSET             | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoEFSET.pdf                                |
+| FluencyPassProficient  | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoFluencyCourseProficient.pdf              |
+| FluencyPassAdvanced1   | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAdvanced1Fluencypass.pdf                 |
+| FluencyPassAdvanced2   | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAdvanced2Fluencypass.pdf                 |
+|    PennUniversity      | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoEnglishPennsylvania.pdf                  |
 
 # Courses already completed
 
-|       Course           |                            Certificate                                                                      |
+|       Training         |                            Certificate                                                                      |
 |:----------------------:|:-----------------------------------------------------------------------------------------------------------:|
 |  AspNet3-1-Net5.0MVC   | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAspNet3-1-Net5.0.pdf                     |
 |     Algorithm          | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAlgoritmo.pdf                            |
 |      AWSCloud          | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAWSCloud.pdf                             |
+|      AzureDevOps       | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAzureDevOpsPipelines.pdf                 |
 |      Database          | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoBancoDeDados.pdf                         |
 | ReportingServices      | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoReportingService.pdf                     |
 |    CsharpLogic         | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoCsharpLogica.pdf                         |
