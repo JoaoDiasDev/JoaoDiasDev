@@ -89,6 +89,7 @@ https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAWSCloudPrati
 |:----------------------:|:-----------------------------------------------------------------------------------------------------------:|
 |  AspNet3-1-Net5.0MVC   | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAspNet3-1-Net5.0.pdf                     |
 |     Algorithm          | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAlgoritmo.pdf                            |
+|  ApiRESTFulDotNet      | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoApiRESTFulDotnetDockerReact.pdf          |
 |      AWSCloud          | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAWSCloud.pdf                             |
 |      AzureDevOps       | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAzureDevOpsPipelines.pdf                 |
 |      Database          | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoBancoDeDados.pdf                         |
