@@ -101,6 +101,7 @@ https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAWSCloudPrati
 | CsharpMicroServices    | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoMicroServicesNet6.0RabbitMQeOcelot.pdf   |
 |  TerraformDevOps       | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoTerraformAWSSREIACDevOps.pdf             |
 |   WebDevelopment       | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoDevWeb.pdf                               |
+|DevOpsCiCdAnsibleJenkins| https://www.udemy.com/certificate/UC-6f3bf0a6-38e4-44fd-99fb-d565dfa0d7b6                                   |
 |       Docker           | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoDocker.pdf                               |
 |   DockerElastic        | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoDockerElastic.pdf                        |
 |     HTML5CSS3          | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoHTML5CSS3.pdf                            |
