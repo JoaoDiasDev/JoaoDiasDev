@@ -108,6 +108,7 @@ https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAWSCloudPrati
 | JavascriptBeginner     | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoJavaScript.pdf                           |
 | JavascriptAdvanced     | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoJavascriptAvan%C3%A7adoFullStack.pdf     |
 | JenkinsFromZeroToHero  | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoJenkinsFromZeroToHero.pdf                |
+| NextJsReactJsAdvanced  | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoNextJsReactJsAdvanced.pdf                |
 | ComputerNetwork        | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoRedeDeComputadores.pdf                   |
 |      RESTAPI           | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoRESTAPI.pdf                              |
 |     WordPress          | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoWordPress.pdf                            |
@@ -134,3 +135,4 @@ https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAWSCloudPrati
 |       Author           |                            Book                                           |
 |:----------------------:|:-------------------------------------------------------------------------:|
 |    Robert C. Martin    |  Clean Architecture                                                       |
+|    Marko Anastasov     | CI/CD with docker and Kubernetes - Second Edition                         |
