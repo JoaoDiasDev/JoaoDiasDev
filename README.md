@@ -110,6 +110,7 @@ https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoAWSCloudPrati
 | JenkinsFromZeroToHero  | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoJenkinsFromZeroToHero.pdf                |
 | NextJsReactJsAdvanced  | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoNextJsReactJsAdvanced.pdf                |
 | ComputerNetwork        | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoRedeDeComputadores.pdf                   |
+|   GoLangBasics         | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoGoLangBasics.pdf                         |
 |      RESTAPI           | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoRESTAPI.pdf                              |
 |     WordPress          | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoWordPress.pdf                            |
 |    WooCommerce         | https://github.com/JoaoDiasDev/Certificados/blob/master/CertificadoWooCommerce.pdf                          |
