@@ -1,5 +1,3 @@
-[![Header](https://github.com/JoaoDiasDev/JoaoDiasDev/blob/main/logoX1.png "Header")](https://github.com/joaodiasdev/)
-
 ### HI Devs 👋
 
 I like to study everything about technology, always curious to learn new things. Gonna to work with technology for all my life, technology is what make me feel alive! 💻
