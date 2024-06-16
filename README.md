@@ -2,7 +2,11 @@
 
 I like to study everything about technology, always curious to learn new things. Gonna to work with technology for all my life, technology is what make me feel alive! 💻
 
-# <img alt="about-me" src="https://github.com/JoaoDiasDev/ResourcesGeralParaProjetos/blob/master/JoaoDiasDev/Readme/resources/banner-about-me.jpg?raw=true" />
+<img alt="banner about me" src="https://github.com/JoaoDiasDev/ResourcesGeralParaProjetos/blob/master/JoaoDiasDev/Readme/resources/banner-about-me.jpg?raw=true" />
+<div align="center">
+ <img alt="logo joaodiasdev" src="https://github.com/JoaoDiasDev/ResourcesGeralParaProjetos/blob/master/JoaoDiasDev/Logos/logo-joaodiadev-animated.gif?raw=true"  width="500" height="500"/>
+</div>
+<hr>
 
 ```Csharp
 public class JoaoDias {
