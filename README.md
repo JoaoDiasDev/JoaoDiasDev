@@ -4,7 +4,7 @@ I like to study everything about technology, always curious to learn new things.
 
 <img alt="banner about me" src="https://github.com/JoaoDiasDev/ResourcesGeralParaProjetos/blob/master/JoaoDiasDev/Readme/resources/banner-about-me.jpg?raw=true" />
 <div align="center">
- <img alt="logo joaodiasdev" src="https://github.com/JoaoDiasDev/ResourcesGeralParaProjetos/blob/master/JoaoDiasDev/Logos/logo-joaodiadev-animated.gif?raw=true"  width="500" height="500"/>
+ <img alt="logo joaodiasdev" src="https://github.com/JoaoDiasDev/ResourcesGeralParaProjetos/blob/master/JoaoDiasDev/Logos/logo-joaodiasdev-2.0.png?raw=true"  width="500" height="500"/>
 </div>
 <hr>
 
