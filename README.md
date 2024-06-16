@@ -4,7 +4,7 @@
 
 I like to study everything about technology, always curious to learn new things. Gonna to work with technology for all my life, technology is what make me feel alive! 💻
 
-# <img alt="about-me" src="https://github.com/JoaoDiasDev/ResourcesGeralParaProjetos/blob/master/JoaoDiasDev/Readme/resources/about-me-section.jpg?raw=true" />
+# <img alt="about-me" src="https://github.com/JoaoDiasDev/ResourcesGeralParaProjetos/blob/master/JoaoDiasDev/Readme/resources/banner-about-me.jpg?raw=true" />
 
 ```Csharp
 public class JoaoDias {
