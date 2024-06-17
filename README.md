@@ -3,12 +3,12 @@
 I like to study everything about technology, always curious to learn new things. Gonna to work with technology for all my life, technology is what make me feel alive! 💻
 
 <img alt="banner about me" src="https://github.com/JoaoDiasDev/ResourcesGeralParaProjetos/blob/master/JoaoDiasDev/Readme/resources/banner-about-me.jpg?raw=true" />
-<div align="center">
- <img alt="logo joaodiasdev" src="https://github.com/JoaoDiasDev/ResourcesGeralParaProjetos/blob/master/JoaoDiasDev/Logos/logo-joaodiasdev-2.0.png?raw=true"  width="500" height="500"/>
-</div>
 <hr>
 
-```Csharp
+<div>
+ <img alt="logo joaodiasdev" src="https://github.com/JoaoDiasDev/ResourcesGeralParaProjetos/blob/master/JoaoDiasDev/Logos/logo-joaodiasdev-2.0.png?raw=true"  width="250" height="250"/>
+ 
+   ```Csharp
 public class JoaoDias {
  string name = "João Matheus Cardoso Dias"
  string[] acknowledgements = new string[] {"Full Stack Developer","DevOps",
@@ -21,6 +21,9 @@ public class JoaoDias {
  "Terraform","Ansible","Docker","Kubernetes","Bitbucket","Jira","Confluence"}
 }
 ```
+</div>
+
+
 <img align="right" width="200" src="https://media.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif" />
 
 # **Languages & Tools:**  
