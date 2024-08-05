@@ -23,11 +23,8 @@ public class JoaoDias {
 ```
 </div>
 
-
-<img align="right" width="200" src="https://media.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif" />
-
-# **Languages & Tools:**  
-
+# **Languages & Tools**  
+<div>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -56,6 +53,8 @@ public class JoaoDias {
 <a href="https://github.com/joaodiasdev">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaodiasdev&show_icons=true&theme=nightowl&line_height=27" alt="JoaoDiasDev github stats"/>
 </a>
+
+<img align="right" width="200" src="https://media.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif" />
 
 [website]: https://joaodiasdev.com/
 [linkedin]: https://www.linkedin.com/in/jo%C3%A3o-matheus-cardoso-dias-29636220a/
