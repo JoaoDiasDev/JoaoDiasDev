@@ -64,6 +64,7 @@ public class JoaoDias {
 
 🎧 [Spotify](https://open.spotify.com/artist/04MRW4EEEqN33uImOqSTMW)  
 🎵 [Youtube](https://www.youtube.com/@vibetidesounds)  
+🌳 [Linktree](https://linktr.ee/vibetidesounds?subscribe)
 📻 [VibeTideSounds](https://vibetidesounds.com)
 
 
