@@ -57,8 +57,10 @@ public class JoaoDias {
 [linkedin]: https://www.linkedin.com/in/jo%C3%A3o-matheus-cardoso-dias-29636220a/
 <br>
 
-# Hobby
-## VibeTideSounds
+# Hobbys
+
+## Music
+**VibeTideSounds**
 
 🎧 [Spotify](https://open.spotify.com/artist/04MRW4EEEqN33uImOqSTMW)  
 🎵 [Youtube](https://www.youtube.com/@vibetidesounds)  
