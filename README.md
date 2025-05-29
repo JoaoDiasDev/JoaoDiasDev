@@ -5,9 +5,6 @@ I like to study everything about technology, always curious to learn new things.
 <img alt="banner about me" src="https://github.com/JoaoDiasDev/ResourcesGeralParaProjetos/blob/master/JoaoDiasDev/Readme/resources/banner-about-me.jpg?raw=true" />
 <hr>
 
-<div>
- <img alt="logo joaodiasdev" src="https://github.com/JoaoDiasDev/ResourcesGeralParaProjetos/blob/master/JoaoDiasDev/Logos/logo-joaodiasdev-2.0.png?raw=true"  width="250" height="250"/>
- 
    ```Csharp
 public class JoaoDias {
  string name = "João Matheus Cardoso Dias"
@@ -59,6 +56,14 @@ public class JoaoDias {
 [website]: https://joaodiasdev.com/
 [linkedin]: https://www.linkedin.com/in/jo%C3%A3o-matheus-cardoso-dias-29636220a/
 <br>
+
+# Hobby
+## VibeTideSounds
+
+🎧 [Spotify](https://open.spotify.com/artist/04MRW4EEEqN33uImOqSTMW)  
+🎵 [Youtube](https://www.youtube.com/@vibetidesounds)  
+📻 [VibeTideSounds](https://vibetidesounds.com)
+
 
 # Social Media
 
